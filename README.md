@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ewannor
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning Python
+<!---
 - 💞️ I’m looking to collaborate on ...null
+--->
 - 📫 Contact? Send me an email: edannor@outlook.com
 
 <!---
