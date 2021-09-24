@@ -4,7 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...null
 --->
-- 📫 Contact? Send me an email: edannor@outlook.com
+- 📫 Contact? Send me an email: edannor@outlook.com / ewannor001@st.ug.edu.gh
 
 <!---
 ewannor/ewannor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
